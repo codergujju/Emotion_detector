@@ -13,5 +13,5 @@ To run an emotion detection model
 1. Just download and unzip our resporatory
 2. install tensorflow and cv2 in the system using the pip command
 3. run gui.ipynb file
-4. upload the image by clicking on the uploaded image
+4. upload the image by clicking on the uploaded image button
 5. Click on the Detect Emotion button 
